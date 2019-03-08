@@ -8,7 +8,7 @@
 
 [![Join the chat at https://gitter.im/kristijanhusak/laravel-form-builder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kristijanhusak/laravel-form-builder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Form builder for Laravel 5 inspired by Symfony's form builder. With help of Laravels FormBuilder class creates forms that can be easy modified and reused.
+Form builder for Laravel 5 inspired by Symfony's form builder. With help of Laravel's FormBuilder class creates forms that can be easy modified and reused.
 By default it supports Bootstrap 3.
 
 ## Laravel 4

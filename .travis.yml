@@ -5,6 +5,7 @@ php:
   - 7.0
   - 7.1
   - 7.2
+  - 7.3
 
 env:
   - COMPOSER_MEMORY_LIMIT=-1
@@ -23,6 +24,6 @@ after_script:
 notifications:
   email:
     recipients:
-      - husakkristijan@gmail.com
-    on_success: never
+      - codedungeon@gmail.com
+    on_success: always
     on_failure: always

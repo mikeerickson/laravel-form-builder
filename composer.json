@@ -7,6 +7,14 @@
         {
             "name": "Kristijan Husak",
             "email": "husakkristijan@gmail.com"
+        },
+        {
+            "name": "Mike Erickson",
+            "email": "codedungeon@gmail.com"
+        },
+        {
+            "name": "Rudie Dirkx",
+            "email": ""
         }
     ],
     "require": {
@@ -17,7 +25,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
-        "orchestra/testbench": "~3.4"
+        "orchestra/testbench": "~3.4",
+        "codedungeon/phpunit-result-printer": "^0.26.0"
     },
     "extra": {
         "branch-alias": {

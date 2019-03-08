@@ -4,3 +4,6 @@ composer.lock
 .DS_Store
 .idea
 coverage
+phpunit-printer.yml
+*.taskpaper
+NOTES.md

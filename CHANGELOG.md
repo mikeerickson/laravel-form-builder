@@ -1,3 +1,7 @@
+## 1.21.0
+- Updated for Laravel 5.8 support (refactor deprecated helpers) [#498](https://github.com/kristijanhusak/laravel-form-builder/pull/498)
+- Add collection option `prefer_input` [#497](https://github.com/kristijanhusak/laravel-form-builder/pull/495)
+- Add check/flag to disable auto copying of parent setOption to children [#495](https://github.com/kristijanhusak/laravel-form-builder/pull/495)
 ## 1.20.0
 - Add field rules event [#491](https://github.com/kristijanhusak/laravel-form-builder/pull/491)(Thanks to [@rudiedirkx](https://github.com/rudiedirkx))
 - Escape html with `e()` to respect Htmlable [#473](https://github.com/kristijanhusak/laravel-form-builder/pull/473)(Thanks to [@rudiedirkx](https://github.com/rudiedirkx))
